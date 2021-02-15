@@ -1,0 +1,14 @@
+# my program
+256 <Cache size in bytes>
+4  <Cache line/block size in bytes>
+8  <Cache associativity>
+10  <T>
+0, R
+1, W, 855392475
+2, W, 374892744
+3, R
+1, R
+1, W, 3274
+2, R
+2, W, 1289739813
+2, R
